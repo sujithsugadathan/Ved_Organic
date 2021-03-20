@@ -1,7 +1,8 @@
 # Ved_Organic
 Work Project
-Tools used
+Technologies used
 #Bootstrap
 #JQuery
 #JS
+#php
 
