@@ -1,5 +1,5 @@
 # Ved_Organic
-## Work Project
+## Work Project (Blazor Server)
 Technologies used
 * Bootstrap
 * JQuery
